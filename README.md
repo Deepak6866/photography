@@ -1,1 +1,1 @@
-# photography
+# photography.github.io
